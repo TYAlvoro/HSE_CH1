@@ -1,0 +1,14 @@
+D:\Desktop\Вышка\Шарпы\Changer\bin\Debug\net6.0\Changer.exe
+D:\Desktop\Вышка\Шарпы\Changer\bin\Debug\net6.0\Changer.deps.json
+D:\Desktop\Вышка\Шарпы\Changer\bin\Debug\net6.0\Changer.runtimeconfig.json
+D:\Desktop\Вышка\Шарпы\Changer\bin\Debug\net6.0\Changer.dll
+D:\Desktop\Вышка\Шарпы\Changer\bin\Debug\net6.0\Changer.pdb
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.AssemblyInfoInputs.cache
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.AssemblyInfo.cs
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.csproj.CoreCompileInputs.cache
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.dll
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\refint\Changer.dll
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.pdb
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\Changer.genruntimeconfig.cache
+D:\Desktop\Вышка\Шарпы\Changer\obj\Debug\net6.0\ref\Changer.dll
