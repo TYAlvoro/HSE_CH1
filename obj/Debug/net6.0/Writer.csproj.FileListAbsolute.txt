@@ -1,0 +1,14 @@
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\bin\Debug\net6.0\Writer.exe
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\bin\Debug\net6.0\Writer.deps.json
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\bin\Debug\net6.0\Writer.runtimeconfig.json
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\bin\Debug\net6.0\Writer.dll
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\bin\Debug\net6.0\Writer.pdb
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.AssemblyInfoInputs.cache
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.AssemblyInfo.cs
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.csproj.CoreCompileInputs.cache
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.dll
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\refint\Writer.dll
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.pdb
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\Writer.genruntimeconfig.cache
+D:\Desktop\Вышка\Шарпы\Сontrol Homework\obj\Debug\net6.0\ref\Writer.dll
